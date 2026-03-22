@@ -1,6 +1,6 @@
 # Hi I'm Miguel Pinto👋
 
-[![](https://img.shields.io/badge/-@nobus1337-%23181717?style=flat-square&logo=github)](https://github.com/miguelmvpinto)
+[![](https://img.shields.io/badge/-@miguelmvpinto-%23181717?style=flat-square&logo=github)](https://github.com/miguelmvpinto)
 
 ### About ME 💬: 
 ### I'm 23 years old Computer Engineer Student from 🇵🇹
